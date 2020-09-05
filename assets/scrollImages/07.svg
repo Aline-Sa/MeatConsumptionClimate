@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3469px" height="2690px" viewBox="0 0 3469 2690" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>World+Brazil</title>
+    <g id="World+Brazil" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="3469" height="2690"></rect>
+        <g id="Linien-vom-Graph" transform="translate(541.000000, 543.588720)" stroke="#979797">
+            <line x1="0.149219395" y1="0.5" x2="2248.91767" y2="0.5" id="Path-10" stroke-width="2"></line>
+            <line x1="2.27373675e-13" y1="191.41128" x2="2248.76845" y2="191.41128" id="Path-10" stroke-width="2"></line>
+            <line x1="2.27373675e-13" y1="383.41128" x2="2248.76845" y2="383.41128" id="Path-10" stroke-width="2"></line>
+            <line x1="0.149219395" y1="574.91128" x2="2248.91767" y2="574.91128" id="Path-10" stroke-width="2"></line>
+            <line x1="2.27373675e-13" y1="765.822561" x2="2248.76845" y2="765.822561" id="Path-10" stroke-width="2"></line>
+            <line x1="2.27373675e-13" y1="957.822561" x2="2248.76845" y2="957.822561" id="Path-10" stroke-width="2"></line>
+            <line x1="0.149219395" y1="1148.91128" x2="2248.91767" y2="1148.91128" id="Path-10" stroke-width="2"></line>
+            <line x1="2.27373675e-13" y1="1339.82256" x2="2248.76845" y2="1339.82256" id="Path-10" stroke-width="2"></line>
+            <line x1="2.27373675e-13" y1="1531.82256" x2="2248.76845" y2="1531.82256" id="Path-10" stroke-width="2"></line>
+            <line x1="1279.43127" y1="0.5" x2="1279.43127" y2="1529.91128" id="Path-11" stroke-width="12" stroke-dasharray="29"></line>
+        </g>
+        <g id="Jahreszahlen" transform="translate(527.000000, 2104.000000)" fill="#1C2A40" font-family="IBMPlexSerif, IBM Plex Serif" font-size="45" font-weight="normal">
+            <text id="1961">
+                <tspan x="0" y="46">1961</tspan>
+            </text>
+            <text id="2000">
+                <tspan x="965" y="46">2000</tspan>
+            </text>
+            <text id="2010">
+                <tspan x="1216" y="46">2010</tspan>
+            </text>
+            <text id="2020">
+                <tspan x="1463" y="46">2020</tspan>
+            </text>
+            <text id="2030">
+                <tspan x="1711" y="46">2030</tspan>
+            </text>
+            <text id="2040">
+                <tspan x="1959" y="46">2040</tspan>
+            </text>
+            <text id="2050">
+                <tspan x="2207" y="46">2050</tspan>
+            </text>
+            <text id="1970">
+                <tspan x="223" y="46">1970</tspan>
+            </text>
+            <text id="1980">
+                <tspan x="470" y="46">1980</tspan>
+            </text>
+            <text id="1990">
+                <tspan x="718" y="46">1990</tspan>
+            </text>
+        </g>
+        <g id="grammzahlen" transform="translate(458.000000, 514.000000)" fill="#1C2A40" font-family="IBMPlexSerif, IBM Plex Serif" font-size="45" font-weight="normal">
+            <text id="0">
+                <tspan x="27" y="1575">0</tspan>
+            </text>
+            <text id="10">
+                <tspan x="0" y="1384">10</tspan>
+            </text>
+            <text id="20">
+                <tspan x="0" y="1193">20</tspan>
+            </text>
+            <text id="30">
+                <tspan x="0" y="1002">30</tspan>
+            </text>
+            <text id="40">
+                <tspan x="0" y="811">40</tspan>
+            </text>
+            <text id="50">
+                <tspan x="0" y="619">50</tspan>
+            </text>
+            <text id="60">
+                <tspan x="0" y="428">60</tspan>
+            </text>
+            <text id="70">
+                <tspan x="0" y="236">70</tspan>
+            </text>
+            <text id="80">
+                <tspan x="0" y="46">80</tspan>
+            </text>
+        </g>
+        <polyline id="Brazil" stroke="#636A78" stroke-width="4" points="553.521154 1734.31588 580.53203 1728.21605 605.799073 1730.13498 632.012957 1716.07077 653.440157 1709.99755 683.739041 1709.99755 706.021058 1711.65146 731.810049 1691.46659 756.608346 1695.95994 782.183813 1690.22103 807.318212 1705.57105 832.319968 1698.24329 857.786876 1680.62034 881.631502 1671.73033 907.529053 1653.01568 934.079399 1642.0181 959.090141 1651.98867 984.493783 1640.50581 1004.18906 1621.07114 1019.03979 1603.83031 1034.81291 1583.33486 1060.72376 1607.85672 1087.31257 1612.15668 1112.55337 1614.17187 1136.47744 1614.17187 1161.82608 1605.88683 1187.21355 1527.87174 1217.3406 1541.96219 1237.5431 1555.78986 1262.74328 1511.91996 1288.60884 1511.91996 1313.552 1481.4701 1338.9693 1483.85086 1364.34598 1473.70414 1389.07921 1434.709 1414.30168 1348.23812 1439.5716 1330.52243 1465.16253 1328.40301 1490.56329 1334.53698 1515.31917 1302.28942 1540.53265 1284.45187 1566.37269 1305.66267 1591.515 1278.87507 1617.82198 1280.60771 1641.80464 1265.60026 1667.98294 1293.70351 1692.7931 1263.93304 1718.73163 1247.68291 1744.73045 1194.98463 1794.49034 1142.46108 1820.05467 1098.52072 2783.22631 1029.22461"></polyline>
+        <polyline id="World" stroke="#1C2A40" stroke-width="12" points="548.934972 1700.33726 582.231827 1691.5 604.29518 1682.361 632.10724 1682.361 657.226756 1678.68088 683.444317 1669.98254 729.971392 1659.49528 762.825428 1659.49528 811.032336 1652.91706 833.406089 1651.58828 859.062912 1653.49325 883.644552 1644.69984 904.089774 1644.69984 933.002807 1638.28674 959.742902 1638.28674 992.687693 1631.60549 1035.31801 1625.01376 1087.20491 1625.01376 1138.18152 1615.76373 1164.11977 1605.50841 1234.74325 1594.58487 1268.32943 1594.58487 1289.31168 1592.46239 1338.85587 1600.79723 1367.17601 1593.35256 1388.98849 1580.97898 1414.40714 1569.96917 1466.65095 1562.15286 1540.29783 1541.01433 1566.58171 1541.01433 1602.67768 1531.01259 1650.82951 1519.76574 1697.691 1502.70361 1719.31332 1490.13088 1743.47291 1483.80139 1772.94942 1479.52513 1795.80182 1470.80249 1820.81624 1467.87009 2787.65589 1393.83376"></polyline>
+        <text id="g-animal-based-prote" transform="translate(372.500000, 1337.500000) rotate(-90.000000) translate(-372.500000, -1337.500000) " font-family="IBMPlexSerif, IBM Plex Serif" font-size="45" font-weight="normal" fill="#1C2A40">
+            <tspan x="-93.045" y="1354.5">g animal-based protein available/capita/day</tspan>
+        </text>
+        <text id="Brazil" font-family="IBMPlexSerif, IBM Plex Serif" font-size="45" font-weight="normal" fill="#636A78">
+            <tspan x="2824" y="1045">Brazil</tspan>
+        </text>
+        <text id="World" font-family="IBMPlexSerif-Bold, IBM Plex Serif" font-size="45" font-weight="bold" fill="#1C2A40">
+            <tspan x="2824" y="1409">World</tspan>
+        </text>
+    </g>
+</svg>

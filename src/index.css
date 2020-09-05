@@ -161,3 +161,45 @@ img {
   align-items: center;
   flex-direction: column;
 }
+
+
+
+
+
+
+
+#scrolly {
+  position: relative;
+  padding: 1rem;
+}
+
+article {
+  position: relative;
+  padding: 0;
+  max-width: 20rem;
+  margin: 0 auto;
+}
+
+figure {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 0;
+  width: 100%;
+  margin: 0;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  z-index: 0;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.step {
+  margin: 0 auto 2rem auto;
+  background-color: rgba(0, 0, 0, 0.0);
+}
+
+.step:last-child {
+  margin-bottom: 0;
+}
